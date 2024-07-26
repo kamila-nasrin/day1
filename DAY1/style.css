@@ -1,0 +1,53 @@
+h1 {
+    color: darkgreen;
+    text-align: center;
+    font-style: oblique;
+    background-color: bisque;
+    border: 2px;
+    border-color: brown;
+    border-style: solid;
+    border-radius: 6px;
+
+}
+
+p {
+    border: 2px blue solid;
+    margin: 40px 30px;
+    padding: 20px;
+}
+
+table {
+    border: 2px blue solid;
+    text-align: center;
+    width: 70%;
+    height: 10vh;
+    /* display: flex;
+    align-items: center; */
+    /* justify-content: center; */
+}
+
+th,
+td {
+    border: 2px blue solid;
+    text-align: center;
+
+}
+
+img {
+    height: 300px;
+    width: 400px;
+}
+
+li {
+    list-style-type: square;
+}
+
+#para2 {
+    border-color: crimson;
+}
+.head{
+    border: 2px blueviolet solid;
+    background-image: url('https: //encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezkhZEGyU-SbkR5X1RGxo8OxQFLfKonocyg&s');
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
